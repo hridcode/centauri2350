@@ -2,6 +2,8 @@
 
 Centauri2350 is a microcontroller board based off the RP2354B chip. It has 44 usable GPIO pins, plus battery charging and an audio DAC.
 
+This is derived from my old board named "Whistle" (which honestly was trash lmao)
+
 ## Features
 
 - 150MHz clock speed
@@ -33,3 +35,5 @@ Centauri2350 is a microcontroller board based off the RP2354B chip. It has 44 us
 
 Pins marked with a star (*) on the board are ADC pins.
 Italicized pin names denote the debug pins.
+
+Have fun making!
