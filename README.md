@@ -31,9 +31,22 @@ This is derived from my old board named "Whistle" (which honestly was trash lmao
 
 ![3D model of PCB](/photos/3d-render.png)
 
+## BOM
+
+|Part|Price|Source|
+|---|---|---|
+|RP2354B|1.62|[LCSC](https://www.lcsc.com/product-detail/C39843328.html)|
+|PCM5102A|1.36|[LCSC](https://www.lcsc.com/product-detail/C107671.html)|
+|IP5306|0.28|[LCSC](https://www.lcsc.com/product-detail/C181692.html)|
+|XC6206P332MR|0.13|[LCSC](https://www.lcsc.com/product-detail/C5446.html)|
+|X322512MSB4SI|0.10|[LCSC](https://www.lcsc.com/product-detail/C9002.html)|
+|USB-C receptacle|0.10|[LCSC](https://www.lcsc.com/product-detail/C165948.html)|
+|3.9x2.9 switch|0.15|[LCSC](https://www.lcsc.com/product-detail/C202388.html)|
+|PCB|2.00|[JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)|
+
 ## Notes
 
-Pins marked with a star (*) on the board are ADC pins.
+Pins marked with an asterisk (*) on the board are ADC pins.
 Italicized pin names denote the debug pins.
 
 Have fun making!
