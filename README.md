@@ -42,7 +42,7 @@ This is derived from my old board named "Whistle" (which honestly was trash lmao
 |X322512MSB4SI|1|$0.100|[LCSC](https://www.lcsc.com/product-detail/C9002.html)|
 |USB-C receptacle|1|$0.100|[LCSC](https://www.lcsc.com/product-detail/C165948.html)|
 |3.9x2.9 switch|2|$0.150|[LCSC](https://www.lcsc.com/product-detail/C202388.html)|
-|PCB|1|$0.400|[JLCPCBs](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)|
+|PCB|1|$1.600|[JLCPCB](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)|
 |0402 20pF capacitor|2|$0.027|[LCSC](https://www.lcsc.com/product-detail/C1554.html)|
 |0402 0.1uF capacitor|16|$0.088|[LCSC](https://www.lcsc.com/product-detail/C1525.html)|
 |0402 2.2uF capacitor|4|$0.026|[LCSC](https://www.lcsc.com/product-detail/C12530.html)|
@@ -58,7 +58,7 @@ This is derived from my old board named "Whistle" (which honestly was trash lmao
 |0402 1KΩ resistor|2|$0.016|[LCSC](https://www.lcsc.com/product-detail/C11702.html)|
 |0402 5.1KΩ resistor|2|$0.013|[LCSC](https://www.lcsc.com/product-detail/C25905.html)|
 |0603 red LED|1|$0.007|[LCSC](https://www.lcsc.com/product-detail/C2286.html)|
-|Total|1|4.955|
+|Total|1|$6.155||
 
 ## Notes
 
