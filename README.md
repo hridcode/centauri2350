@@ -62,6 +62,8 @@ This is derived from my old board named "Whistle" (which honestly was trash lmao
 
 ## Notes
 
+The firmware given is MicroPython firmware. Flash ![MicroPython](https://micropython.org/download/RPI_PICO2/) onto the board by holding the boot button, plugging it into your computer, and dragging the .uf2 file onto the drive.
+
 Pins marked with an asterisk (*) on the board are ADC pins.
 Italicized pin names denote the debug pins.
 
